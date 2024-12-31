@@ -134,7 +134,7 @@ h3:hover{
     display: flex;
     margin: 20px auto;
     width:1360px;
-    gap:28px;
+    gap:34px;
 }
 .icons{
     display: flex;
@@ -149,8 +149,8 @@ h3:hover{
   flex-direction: column;
 }
 .icon-img{
-    height:28px;
-    width:28px;
+    height:22px;
+    width:22px;
 }
 .icon-name{
     margin-top: 4px;
@@ -161,7 +161,7 @@ h3:hover{
 .filter{
    border-radius: 12px;
    border: 1px solid grey;
-   padding: 6px 8px;
+   padding: 2px 2px;
    display: flex;
    align-items: center;
    justify-content: center;
@@ -224,7 +224,7 @@ h3:hover{
     background-color: white;
     margin-top:16px;
     margin-left: 16px;
-    padding: 6px 8px;
+    padding: 3px 8px;
     border-radius: 14px;
     font-size: 14px;
     font-weight: 600;
@@ -236,6 +236,7 @@ h3:hover{
     margin-top:16px;
     margin-right: 16px;
     color:white;
+    font-size: 22px;
 }
 .rentals{
     position:relative;
